@@ -1,0 +1,1 @@
+web: gunicorn novum.wsgi --log-file -
