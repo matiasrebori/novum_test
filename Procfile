@@ -1,1 +1,1 @@
-web: gunicorn novum.wsgi --log-file -
+web: gunicorn novum_test.wsgi --log-file -
